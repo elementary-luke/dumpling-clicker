@@ -1,0 +1,38 @@
+.dumpling {
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+}
+
+.dumpling-image {
+  width: 20%;
+  cursor: pointer;
+  margin: 0px;
+}
+
+.dumpling-image:hover {
+  opacity: 0.8;
+}
+
+.dumpling-image:click {
+  
+}
+
+
+.text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 50px;
+  margin-top: 5px;
+  margin-bottom: 35px;
+}
+
+.gap {
+  margin: 50px;
+}
+
+.smalltext {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 35px;
+}
