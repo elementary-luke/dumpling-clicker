@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dumpling-clicker/static/css/main.db27b97b.css",
+    "main.js": "/dumpling-clicker/static/js/main.70e24cde.js",
+    "static/js/787.a1e7e9fd.chunk.js": "/dumpling-clicker/static/js/787.a1e7e9fd.chunk.js",
+    "static/media/dumpling.png": "/dumpling-clicker/static/media/dumpling.9331fdac090a4d2db5b3.png",
+    "index.html": "/dumpling-clicker/index.html",
+    "main.db27b97b.css.map": "/dumpling-clicker/static/css/main.db27b97b.css.map",
+    "main.70e24cde.js.map": "/dumpling-clicker/static/js/main.70e24cde.js.map",
+    "787.a1e7e9fd.chunk.js.map": "/dumpling-clicker/static/js/787.a1e7e9fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db27b97b.css",
+    "static/js/main.70e24cde.js"
+  ]
+}
